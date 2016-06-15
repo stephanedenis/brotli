@@ -1,0 +1,6 @@
+{
+  "name": "Brotli",
+  "tagline": "Brotli compression format",
+  "body": "brotli\r\n======\r\n\r\nBrotli is a generic-purpose lossless compression algorithm that compresses data\r\nusing a combination of a modern variant of the LZ77 algorithm, Huffman coding\r\nand 2nd order context modeling, with a compression ratio comparable to the best\r\ncurrently available general-purpose compression methods. It is similar in speed\r\nwith deflate but offers more dense compression.\r\n\r\nThe specification of the Brotli Compressed Data Format is defined in the\r\nfollowing internet draft:\r\nhttp://www.ietf.org/id/draft-alakuijala-brotli\r\n\r\nBrotli is open-sourced under the MIT License, see the LICENSE file.\r\n\r\nBrotli mailing list:\r\nhttps://groups.google.com/forum/#!forum/brotli\r\n\r\n[![Build Status](https://travis-ci.org/google/brotli.svg?branch=master)](https://travis-ci.org/google/brotli)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
